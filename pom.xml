@@ -95,15 +95,15 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>Nexus</id>
+	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http:http://172.31.21.138:8081/repository/rbc-release/</url>
+	      <url>http://18.219.112.135:8081/repository/rbc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>Nexus</id>
+	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.21.138:8081/repository/rbc-snapshot/</url>
+	      <url>http://18.219.112.135:8081/repository/rbc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
